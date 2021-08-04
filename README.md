@@ -9,9 +9,9 @@
 
 #### 第一步 使用代码 
 
-git 下载[coding仓库](https://frednab.coding.net/public/dev/hexo-pre-install/git/files)代码
+git 下载[coding仓库](https://frednab.coding.net/public/dev/hexo-blog/git/files)代码
 
-`git clone https://e.coding.net/frednab/dev/hexo-pre-install.git`
+`git clone -b next https://e.coding.net/frednab/dev/hexo-blog.git`
 
 
 #### 第二步 修改配置
